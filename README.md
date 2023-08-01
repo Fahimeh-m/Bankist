@@ -21,7 +21,7 @@ Login Transfer a value to another account Get loans Close (delete) account Login
 # Account Two
 - Login: ma
 - Password: 4444
-#Technologies Used
+ # Technologies Used
 - HTML
 - CSS
 - JavaScript
